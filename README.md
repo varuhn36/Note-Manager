@@ -14,4 +14,22 @@ If are new, you can sign up for the first time. You can access the page below ei
 
 ![Register Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/Register%20Page.png)
 
+# Notes Pages
+
+Upon logging in, you will be brought to the notes homepage where you can view all of your notes:
+
+![MyNotes Home Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/MyNotes%20Page.png)
+
+You can also use the search bar at the top to filter through your notes, by typing in part of the note title:
+
+![Note Searching Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/Note%20Searching.png)
+
+To create a note, simply click the "Create a new note" button, and you will be brought to the note creation page, where you can preview what the notes will look like:
+
+![Create Note](https://github.com/varuhn36/Note-Manager/blob/main/Images/CreateNote.png)
+
+You can also Edit Notes, where you're able to preview what the note will look like. You also can categorize your notes by adding a category to it:
+
+![Edit Note](https://github.com/varuhn36/Note-Manager/blob/main/Images/Edit%20Note.png)
+
 
