@@ -10,7 +10,7 @@ If you click login, you can then move to the login page and login from there:
 
 ![Login Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/Login%20Page.png)
 
-If are new, you can sign up for the first time. You can access the page below either by clicking the signup button from the Landing Page, or the text that says "Register Here on the Login Page":
+If are new, you can sign up for the first time. You can access the page below either by clicking the signup button from the Landing Page, or the text that says "Register Here" on the Login Page:
 
 ![Register Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/Register%20Page.png)
 
@@ -26,11 +26,11 @@ You can also use the search bar at the top to filter through your notes, by typi
 
 ![Note Searching Page](https://github.com/varuhn36/Note-Manager/blob/main/Images/Note%20Searching.png)
 
-To create a note, simply click the "Create a new note" button, and you will be brought to the note creation page, where you can create your note, and preview what the note will look like:
+To create a note, simply click the "Create a new note" button, and you will be brought to the note creation page, where you can create your note, and preview what the note will look like. You also can categorize your notes by adding a category to it:
 
 ![Create Note](https://github.com/varuhn36/Note-Manager/blob/main/Images/CreateNote.png)
 
-You can also Edit Notes, where you're able to preview what the note will look like. You also can categorize your notes by adding a category to it:
+You can also Edit Notes and change them as needed:
 
 ![Edit Note](https://github.com/varuhn36/Note-Manager/blob/main/Images/Edit%20Note.png)
 
